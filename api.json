@@ -2,31 +2,170 @@
   {
     "name": "1ª RODADA",
     "stadium": {
-      "name": "LUSAIL",
-      "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/lusali-stadium.png"
+      "name": "Al Bayt Stadium",
+      "image": ""
     },
-    "team1": "BR",
-    "team2": "RS",
+    "team1": "QAT",
+    "team2": "ECU",
+    "date": "2022-11-20T19:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Al Thumama Stadium",
+      "image": ""
+    },
+    "team1": "SEN",
+    "team2": "NED",
+    "date": "2022-11-21T19:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Khalifa International Stadium",
+      "image": ""
+    },
+    "team1": "ENG",
+    "team2": "IRN",
+    "date": "2022-11-21T16:00:00Z"
+  },
+  
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Ahmad Bin Ali Stadium",
+      "image": ""
+    },
+    "team1": "USA",
+    "team2": "WAL",
+    "date": "2022-11-21T22:00:00Z"
+  },
+  
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Lusail Stadium",
+      "image": ""
+    },
+    "team1": "ARG",
+    "team2": "KSA",
+    "date": "2022-11-22T13:00:00Z"
+  },
+  
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Stadium 974",
+      "image": ""
+    },
+    "team1": "MEX",
+    "team2": "POL",
+    "date": "2022-11-22T19:00:00Z"
+  },
+  
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Education City Stadium",
+      "image": ""
+    },
+    "team1": "DEN",
+    "team2": "TUN",
+    "date": "2022-11-22T16:00:00Z"
+  },
+  
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Al Janoub Stadium",
+      "image": ""
+    },
+    "team1": "FRA",
+    "team2": "AUS",
+    "date": "2022-11-22T22:00:00Z"
+  },
+  
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Al Bayt Stadium",
+      "image": ""
+    },
+    "team1": "MAR",
+    "team2": "CRO",
+    "date": "2022-11-23T13:00:00Z"
+  },
+  
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Khalifa International Stadium",
+      "image": ""
+    },
+    "team1": "GER",
+    "team2": "JPN",
+    "date": "2022-11-23T16:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Al Thumama Stadium",
+      "image": ""
+    },
+    "team1": "ESP",
+    "team2": "CRC",
+    "date": "2022-11-23T19:00:00Z"
+  },
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Ahmad Bin Ali Stadium",
+      "image": ""
+    },
+    "team1": "BEL",
+    "team2": "CAN",
+    "date": "2022-11-23T22:00:00Z"
+  },
+  
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Lusail Stadium",
+      "image": ""
+    },
+    "team1": "BRA",
+    "team2": "SRB",
+    "date": "2022-11-24T22:00:00Z"
+  },
+  
+  {
+    "name": "1ª RODADA",
+    "stadium": {
+      "name": "Stadium 974",
+      "image": ""
+    },
+    "team1": "POR",
+    "team2": "GHA",
     "date": "2022-11-24T19:00:00Z"
   },
   {
-    "name": "2ª RODADA",
+    "name": "1ª RODADA",
     "stadium": {
-      "name": "ESTÁDIO 974",
-      "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/974-stadium.png"
+      "name": "Education City Stadium",
+      "image": ""
     },
-    "team1": "BR",
-    "team2": "CH",
-    "date": "2022-11-28T16:00:00Z"
+    "team1": "URU",
+    "team2": "KOR",
+    "date": "2022-11-24T16:00:00Z"
   },
   {
-    "name": "3ª RODADA",
+    "name": "1ª RODADA",
     "stadium": {
-      "name": "LUSAIL",
-      "image": "https://digitalinnovationone.github.io/copa-2022-android/statics/lusali-stadium.png"
+      "name": "Al Janoub Stadium",
+      "image": ""
     },
-    "team1": "CM",
-    "team2": "BR",
-    "date": "2022-12-02T19:00:00Z"
+    "team1": "SUI",
+    "team2": "CMR",
+    "date": "2022-11-24T13:00:00Z"
   }
 ]
