@@ -21,6 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     <a href="https://brunodorea.github.io/dio-copa-2022-api/api.json"><img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white"></a>
 </p>
 
+- [Lista do Código ISO dos Países](https://www.sport-histoire.fr/pt/Geografia/Codigos_ISO_Paises.php)
 ## 📝 License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.

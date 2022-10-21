@@ -15,8 +15,8 @@
       "name": "Al Thumama Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/al-thumama-stadium.jpg"
     },
-    "team1": "SEN",
-    "team2": "NED",
+    "team1": "SN",
+    "team2": "NL",
     "date": "2022-11-21T13:00:00Z"
   },
   {
@@ -25,7 +25,7 @@
       "name": "Khalifa International Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/khalifa_stadium.jpg"
     },
-    "team1": "UK",
+    "team1": "GB",
     "team2": "IR",
     "date": "2022-11-21T16:00:00Z"
   },
@@ -36,7 +36,7 @@
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/ahmad-bin-ali-stadium.jpeg"
     },
     "team1": "US",
-    "team2": "WAL",
+    "team2": "GB",
     "date": "2022-11-21T22:00:00Z"
   },
   {
@@ -55,8 +55,8 @@
       "name": "Stadium 974",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/974-stadium.png"
     },
-    "team1": "MEX",
-    "team2": "POL",
+    "team1": "MX",
+    "team2": "PL",
     "date": "2022-11-22T19:00:00Z"
   },
   {
@@ -65,8 +65,8 @@
       "name": "Education City Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/education-city-stadium.jpg"
     },
-    "team1": "DEN",
-    "team2": "TUN",
+    "team1": "DK",
+    "team2": "TN",
     "date": "2022-11-22T16:00:00Z"
   },
   {
@@ -86,7 +86,7 @@
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/al-bayt-stadium.jpg"
     },
     "team1": "MA",
-    "team2": "CRO",
+    "team2": "HR",
     "date": "2022-11-23T13:00:00Z"
   },
   {
@@ -95,7 +95,7 @@
       "name": "Khalifa International Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/khalifa_stadium.jpg"
     },
-    "team1": "GER",
+    "team1": "DE",
     "team2": "JP",
     "date": "2022-11-23T16:00:00Z"
   },
