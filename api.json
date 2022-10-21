@@ -25,7 +25,7 @@
       "name": "Khalifa International Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/khalifa_stadium.jpg"
     },
-    "team1": "GB-ENG",
+    "team1": "GB",
     "team2": "IR",
     "date": "2022-11-21T16:00:00Z"
   },
@@ -36,7 +36,7 @@
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/ahmad-bin-ali-stadium.jpeg"
     },
     "team1": "US",
-    "team2": "GB-WLS",
+    "team2": "GB",
     "date": "2022-11-21T22:00:00Z"
   },
   {
@@ -126,7 +126,7 @@
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/lusali-stadium.png"
     },
     "team1": "BR",
-    "team2": "SE",
+    "team2": "RS",
     "date": "2022-11-24T22:00:00Z"
   },
   {
@@ -146,7 +146,7 @@
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/education-city-stadium.jpg"
     },
     "team1": "UY",
-    "team2": "SK",
+    "team2": "KR",
     "date": "2022-11-24T16:00:00Z"
   },
   {
@@ -155,7 +155,7 @@
       "name": "Al Janoub Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/al-janoub-stadium.jpg"
     },
-    "team1": "SE",
+    "team1": "CH",
     "team2": "CM",
     "date": "2022-11-24T13:00:00Z"
   }
