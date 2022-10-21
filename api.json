@@ -25,7 +25,7 @@
       "name": "Khalifa International Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/khalifa_stadium.jpg"
     },
-    "team1": "GB",
+    "team1": "GB-ENG",
     "team2": "IR",
     "date": "2022-11-21T16:00:00Z"
   },
@@ -36,7 +36,7 @@
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/ahmad-bin-ali-stadium.jpeg"
     },
     "team1": "US",
-    "team2": "GB",
+    "team2": "GB-WLS",
     "date": "2022-11-21T22:00:00Z"
   },
   {
@@ -145,7 +145,7 @@
       "name": "Education City Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/education-city-stadium.jpg"
     },
-    "team1": "UR",
+    "team1": "UY",
     "team2": "SK",
     "date": "2022-11-24T16:00:00Z"
   },
