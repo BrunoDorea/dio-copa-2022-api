@@ -5,8 +5,8 @@
       "name": "Al Bayt Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/al-bayt-stadium.jpg"
     },
-    "team1": "QAT",
-    "team2": "ECU",
+    "team1": "QA",
+    "team2": "EC",
     "date": "2022-11-20T19:00:00Z"
   },
   {
@@ -25,8 +25,8 @@
       "name": "Khalifa International Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/khalifa_stadium.jpg"
     },
-    "team1": "ENG",
-    "team2": "IRN",
+    "team1": "EN",
+    "team2": "IR",
     "date": "2022-11-21T16:00:00Z"
   },
   {
@@ -35,7 +35,7 @@
       "name": "Ahmad Bin Ali Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/ahmad-bin-ali-stadium.jpeg"
     },
-    "team1": "USA",
+    "team1": "US",
     "team2": "WAL",
     "date": "2022-11-21T22:00:00Z"
   },
@@ -45,8 +45,8 @@
       "name": "Lusail Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/lusali-stadium.png"
     },
-    "team1": "ARG",
-    "team2": "KSA",
+    "team1": "AR",
+    "team2": "SA",
     "date": "2022-11-22T13:00:00Z"
   },
   {
@@ -75,8 +75,8 @@
       "name": "Al Janoub Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/al-janoub-stadium.jpg"
     },
-    "team1": "FRA",
-    "team2": "AUS",
+    "team1": "FR",
+    "team2": "AU",
     "date": "2022-11-22T22:00:00Z"
   },
   {
@@ -85,7 +85,7 @@
       "name": "Al Bayt Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/al-bayt-stadium.jpg"
     },
-    "team1": "MAR",
+    "team1": "MA",
     "team2": "CRO",
     "date": "2022-11-23T13:00:00Z"
   },
@@ -96,7 +96,7 @@
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/khalifa_stadium.jpg"
     },
     "team1": "GER",
-    "team2": "JPN",
+    "team2": "JP",
     "date": "2022-11-23T16:00:00Z"
   },
   {
@@ -105,8 +105,8 @@
       "name": "Al Thumama Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/al-thumama-stadium.jpg"
     },
-    "team1": "ESP",
-    "team2": "CRC",
+    "team1": "ES",
+    "team2": "CR",
     "date": "2022-11-23T19:00:00Z"
   },
   {
@@ -115,8 +115,8 @@
       "name": "Ahmad Bin Ali Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/ahmad-bin-ali-stadium.jpeg"
     },
-    "team1": "BEL",
-    "team2": "CAN",
+    "team1": "BE",
+    "team2": "CA",
     "date": "2022-11-23T22:00:00Z"
   },
   {
@@ -125,8 +125,8 @@
       "name": "Lusail Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/lusali-stadium.png"
     },
-    "team1": "BRA",
-    "team2": "SRB",
+    "team1": "BR",
+    "team2": "SE",
     "date": "2022-11-24T22:00:00Z"
   },
   {
@@ -135,8 +135,8 @@
       "name": "Stadium 974",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/974-stadium.png"
     },
-    "team1": "POR",
-    "team2": "GHA",
+    "team1": "PT",
+    "team2": "GH",
     "date": "2022-11-24T19:00:00Z"
   },
   {
@@ -145,8 +145,8 @@
       "name": "Education City Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/education-city-stadium.jpg"
     },
-    "team1": "URU",
-    "team2": "KOR",
+    "team1": "UR",
+    "team2": "SK",
     "date": "2022-11-24T16:00:00Z"
   },
   {
@@ -155,8 +155,8 @@
       "name": "Al Janoub Stadium",
       "image": "https://brunodorea.github.io/dio-copa-2022-api/stadium/al-janoub-stadium.jpg"
     },
-    "team1": "SUI",
-    "team2": "CMR",
+    "team1": "SW",
+    "team2": "CM",
     "date": "2022-11-24T13:00:00Z"
   }
 ]
